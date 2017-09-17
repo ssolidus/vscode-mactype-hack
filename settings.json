@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.shellArgs.windows": [
+        "--disable-lcd-text",
+        "--disable-gpu",
+        "--disable-directwrite-for-ui",
+        "--disable-font-antialiasing"
+    ]
+}
