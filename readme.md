@@ -2,6 +2,8 @@
 ## Flags
 This guide works as of `mactype-1.2017.628.0` and `vscode-1.16.1`, both on `x64`.
 
+Mactype can be found [here](https://github.com/snowie2000/mactype_).
+
 VSCode requires the following flags to be passed for MacType to work correctly:
 
 ```
