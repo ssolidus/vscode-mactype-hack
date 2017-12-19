@@ -1,7 +1,11 @@
 # MacType VSCode hack
-## Flags
+**This guide no longer works as of `vscode-1.18.0` due to the latest version of Chromium dropping support for the `--disable-directwrite` flag. Consider switching to Sublime Text or not updating**
+
+
 This guide works as of `mactype-1.2017.628.0` and `vscode-1.16.1`, both on `x64`.
 
+
+## Flags
 Mactype can be found [here](https://github.com/snowie2000/mactype).
 
 VSCode requires the following flags to be passed for MacType to work correctly:
