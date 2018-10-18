@@ -1,4 +1,13 @@
 # MacType VSCode hack
+## For versions 1.16.1 and above
+### Mactype
+- Download and install [Mactype](http://mactype.net/).
+- Download and install [MactypePatch](https://silightblog.develuck.com/MacTypePatch_1.26.zip), from the user **silight**. This patches MacType to also intercept DirectWrite hooks.
+
+The blog can be found [here](https://silight.hatenablog.jp/entry/MacTypePatch).
+
+
+## For versions beloe 1.16.1
 **This guide no longer works as of `vscode-1.18.0` due to the latest version of Chromium dropping support for the `--disable-directwrite` flag. Consider switching to Sublime Text or not updating**
 
 
