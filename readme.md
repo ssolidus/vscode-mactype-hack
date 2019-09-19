@@ -1,4 +1,6 @@
 # MacType VSCode hack
+**__UPDATE__**: The latest version of MacType supports DirectWrite, so you don't need this guide anymore.
+
 ## For versions 1.16.1 and above
 ### Mactype
 - Download and install [Mactype](http://mactype.net/).
